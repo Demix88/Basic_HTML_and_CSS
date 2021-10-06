@@ -1,0 +1,21 @@
+
+h1 {
+	font-family:'Akronim', cursive;
+	background-color:gold;
+}
+h2 {
+	font-family:Optima, sans-serif;
+	background-color:silver;
+}
+
+ul {
+	list-style-type: circle;
+	background-color:salmon;
+	font-family:arial;
+	}
+	
+ol {
+	list-style-type: upper-roman;
+	background-color:Aqua;
+	}
+		

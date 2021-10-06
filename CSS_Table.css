@@ -1,0 +1,21 @@
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+td:hover {
+  background-color: red;
+  /*When hover the size of letters change and color changes as well*/
+color:green;
+font-size:small;
+}
+th, td {
+  background-color: #96D4D4;
+  font-family:Arial, sans-serif;
+  color:salmon;
+  
+  }
+  
+  h1 { 
+  font-family:Apple Chancery, cursive;
+    background-color: gold;
+  }
